@@ -1,0 +1,6 @@
+{
+  "name": "PurpleHacker OSINT & Autonomous Agent Studio",
+  "description": "All-in-one real-time OSINT intelligence dashboard, multi-tool reconnaissance orchestrator, MCP server, and advanced autonomous agent self-correction engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
